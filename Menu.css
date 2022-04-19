@@ -1,1 +1,43 @@
 
+h1{
+    font-family:Garamond, serif ;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.sticky{
+    position: sticky;
+    top: 0px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: 2px solid;
+    text-align: center;
+}
+
+.border{
+    border-style: solid;
+    border-left: 0;
+    border-right: 0;
+    border-width: 0.1px;
+    padding: auto;
+    margin: 50px;
+    text-align: center;
+    }
+
+p{
+    text-align: center;
+    font-weight: 200;
+}
+
+.flex{
+    display: flex;
+    justify-content: center ;
+}
+
+.flexbox{
+    display:flex;
+    justify-content: center;
+
+}
+        
